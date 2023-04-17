@@ -8,6 +8,6 @@ const anastasija = {
   frontend: [HTML, CSS, Javascript],
   backend: ['in progress...'],
   database: ['in progress...'],
-  tools: [GIT, GitHub, Node],
+  tools: [GIT, GitHub, Node, React],
 }
 ```
