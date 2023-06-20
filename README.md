@@ -5,9 +5,9 @@ A little more about me...
 
 ```javascript
 const anastasija = {
-  frontend: [HTML, CSS, Javascript],
-  backend: ['in progress...'],
-  database: ['in progress...'],
-  tools: [GIT, GitHub, Node, React],
+  frontend: ['HTML', 'CSS', 'Javascript', 'React', 'APIs'],
+  backend: ['NodeJS', 'Express'],
+  database: ['SQL', 'MongoDB'],
+  tools: ['GIT', 'GitHub'],
 }
 ```
